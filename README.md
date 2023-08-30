@@ -1,16 +1,6 @@
-# pomodoro
+Panadora: Your Focus Companion
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Panadora is a sleek app designed to enhance your focus and productivity.
+With adaptive focus modes, task prioritization, and distraction management, 
+it tailors your work experience to boost concentration and task accomplishment.
+Say hello to a more productive you with Panadora.
