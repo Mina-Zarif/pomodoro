@@ -10,6 +10,6 @@ Say hello to a more productive you with Panadora.
 
 
 
-| Splash | Break | Break 2 | Setting |
+| Splash | Break 1 | Break 2 | Setting |
 |---------|---------|---------|---------|
 |<img src="https://github.com/Mina-Zarif/pomodoro/blob/master/panadora%20screenshots/splash_screen_dark_mood.jpg"/>|<img src="https://github.com/Mina-Zarif/pomodoro/blob/master/panadora%20screenshots/home_dark_mood.jpg"/>|<img src = "https://github.com/Mina-Zarif/pomodoro/blob/master/panadora%20screenshots/home(2)_dark_mood.jpg"/>|<img src = "https://github.com/Mina-Zarif/pomodoro/blob/master/panadora%20screenshots/setting_screen_dark_mood.jpg"/>|
